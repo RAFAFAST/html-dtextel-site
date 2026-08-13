@@ -1,0 +1,146 @@
+{
+  "checks": 20,
+  "failures": [],
+  "report": [
+    {
+      "page": "blog.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "blog.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "contato.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "contato.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "empresa.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "empresa.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "servicos/0800-voip.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "servicos/0800-voip.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "servicos/link-dedicado.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "servicos/link-dedicado.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "servicos/omnichannel.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "servicos/omnichannel.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "servicos/pabx-ip.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "servicos/pabx-ip.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "servicos/pabx-virtual.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "servicos/pabx-virtual.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    },
+    {
+      "page": "solucoes.html",
+      "width": 1440,
+      "ok": true,
+      "scroll": "1440/1440",
+      "errors": []
+    },
+    {
+      "page": "solucoes.html",
+      "width": 390,
+      "ok": true,
+      "scroll": "390/390",
+      "errors": []
+    }
+  ]
+}
